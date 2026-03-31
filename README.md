@@ -15,3 +15,10 @@ Applies fundamental **image processing operations** on grayscale images using Nu
 - **Andy Warhol effect** - horizontal stacking of image and its inverse
  
 **Tools & Libraries:** numpy, matplotlib, PIL
+
+**Colab Link:**
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dY05v84pXL87n5ILUUINONefYtuyt8Gw?usp=sharing)
+
+*Author*
+
+*Rekha Dhorigol*
